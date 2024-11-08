@@ -1,7 +1,8 @@
 ![Solutions Banner](https://raw.githubusercontent.com/kylecurtis/solutions/refs/heads/main/assets/solutions-banner.png)
 
- A collection of my Leetcode (and similiar) solutions. 
- 
+![Leetcode Badge](https://raw.githubusercontent.com/kylecurtis/solutions/7efc260c4a6661cc959aa818ef9e604e09d9dc1a/assets/badges/leetcode-badge.svg)
+![Python Badge](https://raw.githubusercontent.com/kylecurtis/solutions/7efc260c4a6661cc959aa818ef9e604e09d9dc1a/assets/badges/python-badge.svg)
+
 <br>
 
 ## Leetcode Solutions
