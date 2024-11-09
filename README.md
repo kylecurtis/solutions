@@ -1,4 +1,4 @@
-![Solutions Banner](https://raw.githubusercontent.com/kylecurtis/solutions/refs/heads/main/assets/banner/solutions-banner.png)
+![Solutions Banner](https://raw.githubusercontent.com/kylecurtis/solutions/a2cee188777e7a641cc909a693bdd00d7fec764b/assets/banner/solutions-banner.png)
 
 ![Leetcode Badge](https://raw.githubusercontent.com/kylecurtis/solutions/7efc260c4a6661cc959aa818ef9e604e09d9dc1a/assets/badges/leetcode-badge.svg)
 ![Python Badge](https://raw.githubusercontent.com/kylecurtis/solutions/7efc260c4a6661cc959aa818ef9e604e09d9dc1a/assets/badges/python-badge.svg)
