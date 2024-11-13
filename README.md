@@ -16,3 +16,17 @@
 | Easy | [1 - Two Sum](https://leetcode.com/problems/two-sum/description/) | [Python Solution](https://github.com/kylecurtis/solutions/blob/main/leetcode/easy/1-two-sum.py) |
 
 </details>
+
+<br>
+
+## Codewars Solutions
+
+<details closed>
+<summary>8kyu</summary>
+<br>
+  
+| Difficulty | Problem | Solution |
+| :---: | :---: | :---: |
+| 8kyu | [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/) | [Python Solution](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu/even-or-odd.py) |
+
+</details>
