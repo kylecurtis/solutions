@@ -28,6 +28,7 @@
   
 | Difficulty | Problem | Solution |
 | :---: | :--- | :---: |
+| 8kyu | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3) | [Python Solution](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu/abbreviate-a-two-word-name.py) |
 | 8kyu | [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) | [Python Solution](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu/remove-string-spaces.py) |
 | 8kyu | [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) | [Python Solution](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu/string-repeat.py) |
 | 8kyu | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) | [Python Solution](https://github.com/kylecurtis/solutions/blob/main/codewars/8kyu/remove-first-and-last-character.py) |
