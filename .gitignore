@@ -1,2 +1,22 @@
-.venv/
+# CLion project files
 .idea/
+*.iml
+
+# CMake build files
+cmake-build-*/
+build/
+out/
+
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+
+# Dependencies (if managed manually)
+lib/
+include/
+
+#System files
+.DS_Store
