@@ -6,26 +6,11 @@
 <br>
 
 ## Leetcode Solutions
-
-<details closed>
-<summary>Easy</summary>
-<br>
   
-| Difficulty | Problem | Solution |
-| :---: | :---: | :---: |
-| Easy | [1 - Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++ Solution](https://github.com/kylecurtis/solutions/blob/main/leetcode/easy/1-two-sum.cpp) |
-
-</details>
+[Easy](https://github.com/kylecurtis/solutions/tree/main/leetcode/easy)
 
 <br>
 
-## Codewars Solutions
+## CodeWars Solutions
 
-<details closed>
-<summary>8kyu</summary>
-<br>
-  
-| Difficulty | Problem | Solution |
-| :---: | :--- | :---: |
-
-</details>
+[8kyu](https://github.com/kylecurtis/solutions/tree/main/codewars/8kyu)
