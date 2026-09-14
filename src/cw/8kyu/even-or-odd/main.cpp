@@ -12,5 +12,5 @@ int main() {
     tests.check(even_or_odd(-10) == "Even", "test 2");
     tests.check(even_or_odd(33) == "Odd", "test 3");
     tests.check(even_or_odd(0) == "Even", "test 4");
-    return tests.finish();
+    return tests.report();
 }

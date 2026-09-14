@@ -12,5 +12,5 @@ int main() {
     tests.check(multiply(-2, 3) == -6, "test 2");
     tests.check(multiply(-2, -3) == 6, "test 3");
     tests.check(multiply(0, 32) == 0, "test 4");
-    return tests.finish();
+    return tests.report();
 }
